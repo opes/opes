@@ -1,5 +1,7 @@
 ### Hi there 👾
 
+My name's Dan. I've played the part of software developer, tech lead, engineering manager, and principal instructor. I'm currently exploring blockchain developement, Web3, and Wasm.
+
 <!--
 **opes/opes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
