@@ -1,6 +1,6 @@
 ## Hi there 👾
 
-My name's Dan. I've played the part of software engineer, tech lead, engineering manager, and principal instructor. I'm currently teaching full stack JavaScript app development while exploring Rust, Elixir, Web3, and WebAssembly.
+My name's Dan. I've played the part of software engineer, tech lead, engineering manager, and principal instructor. I'm currently teaching full stack JavaScript development while exploring Rust, Elixir, Web3, and WebAssembly.
 
 
 <!--
