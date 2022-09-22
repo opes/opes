@@ -1,6 +1,6 @@
 ## Hi there 👾
 
-My name's Dan. I've played the part of software engineer, tech lead, engineering manager, and principal instructor. I'm currently teaching full stack JavaScript development while exploring Rust, Elixir, and WebAssembly.
+My name's Dan. I've played the part of software engineer, tech lead, engineering manager, and principal instructor. I'm currently doing full stack JavaScript development while exploring Rust, Elixir, and WebAssembly.
 
 <!--
 **opes/opes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
